@@ -1,0 +1,51 @@
+[
+  { "name": "Red", "category": "Color" },
+  { "name": "Blue", "category": "Color" },
+  { "name": "Black", "category": "Color" },
+  { "name": "White", "category": "Color" },
+
+  { "name": "Dog", "category": "Pet" },
+  { "name": "Cat", "category": "Pet" },
+  { "name": "Hamster", "category": "Pet" },
+  { "name": "Rabbit", "category": "Pet" },
+
+  { "name": "Lion", "category": "Animal" },
+  { "name": "Tiger", "category": "Animal" },
+  { "name": "Dolphin", "category": "Animal" },
+  { "name": "Elephant", "category": "Animal" },
+
+  { "name": "Apple", "category": "Fruit" },
+  { "name": "Banana", "category": "Fruit" },
+  { "name": "Mango", "category": "Fruit" },
+  { "name": "Pineapple", "category": "Fruit" },
+
+  { "name": "Lamborghini", "category": "Car" },
+  { "name": "Tesla", "category": "Car" },
+  { "name": "Ferrari", "category": "Car" },
+  { "name": "Porsche", "category": "Car" },
+
+  { "name": "Python", "category": "Programming Language" },
+  { "name": "JavaScript", "category": "Programming Language" },
+  { "name": "Rust", "category": "Programming Language" },
+  { "name": "Kotlin", "category": "Programming Language" },
+
+  { "name": "Earth", "category": "Planet" },
+  { "name": "Mars", "category": "Planet" },
+  { "name": "Jupiter", "category": "Planet" },
+  { "name": "Saturn", "category": "Planet" },
+
+  { "name": "Guitar", "category": "Instrument" },
+  { "name": "Piano", "category": "Instrument" },
+  { "name": "Drums", "category": "Instrument" },
+  { "name": "Violin", "category": "Instrument" },
+
+  { "name": "Pizza", "category": "Dish" },
+  { "name": "Sushi", "category": "Dish" },
+  { "name": "Biryani", "category": "Dish" },
+  { "name": "Burger", "category": "Dish" },
+
+  { "name": "Happiness", "category": "Emotion" },
+  { "name": "Sadness", "category": "Emotion" },
+  { "name": "Anger", "category": "Emotion" },
+  { "name": "Excitement", "category": "Emotion" }
+]
